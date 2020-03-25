@@ -1,12 +1,3 @@
-# Estudo
+# Web Moderno com JavaScript 2020 COMPLETO + Projetos
 
-CRIANDO TEMA DE WORDPRESS
-
-Funcionalidades
-.Menu
-.Lista de posts
-.Comentarios
-.Widgets
-.Galeria
-
-NodeJS/Sass/Gulp/Bootstrap4
+Para mais informações acessar https://www.cod3r.com.br/courses/web-moderno
